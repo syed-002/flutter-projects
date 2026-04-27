@@ -1,0 +1,2 @@
+/Users/syed/StudioProjects/flash_chat_flutter/android/app/.cxx/Debug/1xs2x301/x86_64/CMakeFiles/edit_cache.dir
+/Users/syed/StudioProjects/flash_chat_flutter/android/app/.cxx/Debug/1xs2x301/x86_64/CMakeFiles/rebuild_cache.dir

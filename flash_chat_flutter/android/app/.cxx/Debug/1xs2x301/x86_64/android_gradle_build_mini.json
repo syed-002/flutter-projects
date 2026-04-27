@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/syed/Developer/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/syed/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/syed/StudioProjects/flash_chat_flutter/android/app/.cxx/Debug/1xs2x301/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/syed/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/syed/StudioProjects/flash_chat_flutter/android/app/.cxx/Debug/1xs2x301/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
